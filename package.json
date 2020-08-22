@@ -1,0 +1,19 @@
+{
+  "name": "ci-cd-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muisoft/ci-cd-demo.git"
+  },
+  "author": "Muideen Adewale",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/muisoft/ci-cd-demo/issues"
+  },
+  "homepage": "https://github.com/muisoft/ci-cd-demo#readme"
+}
