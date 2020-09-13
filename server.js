@@ -1,7 +1,8 @@
-const app = require('http');
+const express = require('express');
 
-app.createServer((req, res) => {
-    console.log("Hello")
+const app = express();
+app.get((req, res) => {
+   console.log("Hello")
 })
-app.liste
+
 app.listen(30000);
